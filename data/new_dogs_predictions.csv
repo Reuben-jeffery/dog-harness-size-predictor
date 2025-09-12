@@ -1,0 +1,4 @@
+breed,weight,chest,neck,bootsize,age,activity,predicted_harness_size
+labrador,30,60,35,5,3,high,M
+poodle,10,40,25,3,2,medium,S
+beagle,15,45,30,4,4,low,S

@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+dog-harness-env/
+
+# Raw data (don’t upload big CSVs)
+data/
+
+# Jupyter auto-saves
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db

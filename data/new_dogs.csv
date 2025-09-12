@@ -1,0 +1,4 @@
+breed,weight,chest,neck,boot_size,age,activity
+labrador,30,60,35,5,3,high
+poodle,10,40,25,3,2,medium
+beagle,15,45,30,4,4,low
